@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RadioAktywne</string>
+    <string name="action_settings">Info</string>
+    <string name="now_listening">Teraz słuchasz RadioAktywne</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="home_page">RadioAktywne</string>
+    <string name="hello">Dzień Dobry!</string>
+    <string name="facebook_address">https://www.facebook.com/RadioaktywnePW/</string>
+    <string name="instagram_address">https://www.instagram.com/radioaktywnepw/</string>
+    <string name="home_address">https://radioaktywne.pl/</string>
+    <string name="stop_listening">Odtwarzanie RadioAktywne zatrzymane</string>
+</resources>

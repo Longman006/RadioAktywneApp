@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.radioaktywne.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/facebook_action"
+        android:icon="@drawable/ic_fblogo"
+        android:title="@string/facebook"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/instagram_action"
+        android:icon="@drawable/ic_iglogo"
+        android:title="@string/instagram"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/home_action"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home_page"
+        app:showAsAction="ifRoom" />
+
+</menu>
